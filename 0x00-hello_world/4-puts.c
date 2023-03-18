@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description: Write a C program that prints exactly Programming is like building a multilingual puzzle
+ * Description: Write a c program that print a sentence using printf
  *return: 0 (sucess)
  */
 int main(void)
