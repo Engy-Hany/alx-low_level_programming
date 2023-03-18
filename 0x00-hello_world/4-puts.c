@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  * Description: Write a c program that print a sentence using printf
- *return: Always 0 (success)
+ *return : Always 0 (success)
  */
 int main(void)
 {
